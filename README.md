@@ -1,4 +1,4 @@
-# ferramentas-de-inteligencia-artificial
+# :wrench: :nut_and_bolt: ferramentas-de-inteligencia-artificial 🤖
 Atividades práticas elaborados em Python, no ambiente Google Colab, para a disciplina de ferramentas de inteligencia artificial
 
 ## Tarefa :one:
